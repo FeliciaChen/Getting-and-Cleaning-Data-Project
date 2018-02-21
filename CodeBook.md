@@ -94,6 +94,6 @@ This code book summarizes the resulting data fields in the tidy data.
 * `WALKING` 
 * `WALKING_UPSTAIRS`
 * `WALKING_DOWNSTAIRS` 
-* `SITTING` (value `4`)
-* `STANDING` (value `5`)
-* `LAYING` (value `6`)
+* `SITTING` 
+* `STANDING` 
+* `LAYING` 
